@@ -12,8 +12,9 @@ data = pd.read_csv('USA_Housing.csv')
 model = joblib.load('HousePredictor.pkl')
 
 st.markdown("<h1 style = 'color: #83C0C1; text-align: center; font-family: helvetica '>House Price Prediction</h1>", unsafe_allow_html =True)
-st.markdown("<h4 style = 'margin: -30px; color: #F11A7B; text-align: center; font-family: cursive '>Built By GomyCode MTW</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style = 'margin: -30px; color: #6D2932; text-align: center; font-family: helvetica'>Designed and built by", unsafe_allow_html =True)
 st.markdown('<br>', unsafe_allow_html = True)
+st.markdown("<h3 style = 'margin: -30px; color: #1E1E1E; text-align: center; font-family: cursive '>kaka Tech Word", unsafe_allow_html =True)
 
 st.markdown("<p style = 'font-family: recursive' >Model Name: Home Value Predictor.</p>", unsafe_allow_html=True)
 
