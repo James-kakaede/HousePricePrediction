@@ -1,5 +1,5 @@
 <!-- Title -->
-# Lagos House Price Prediction
+# House Price Prediction
 
 <!-- Description -->
 The HomeValue Predictor is designed to predict the market value of residential properties based on various features and attributes. Its primary goal is to assist homebuyers, sellers, and real estate professionals in estimating the fair market price of a house. 
